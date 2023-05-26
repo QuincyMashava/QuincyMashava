@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QuincyMashava
 - Software engineer; studied at ALX.
-- Full-stack; I especially love JavaScript.
+- Full-stack; I especially love JavaScript and Python.
 
 <!---
 QuincyMashava/QuincyMashava is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
